@@ -1,5 +1,5 @@
-class Human
-  attr_accessor :height, :name, :high_school, :sex 
+class Cat
+  attr_accessor :name
   
   def meow
     puts "meow!"
@@ -12,7 +12,6 @@ class Human
   # end
 end
 
-maru = Human.new
-maru.name = "Sharon"
-maru.sex = "female"
+maru = Cat.new
+maru.name = "Maru"
 maru.meow
