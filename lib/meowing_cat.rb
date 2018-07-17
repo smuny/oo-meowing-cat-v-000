@@ -2,4 +2,6 @@ class Cat
 
 end
 
-name = Cat.new
+cat1 = Cat.new
+
+cat2 = Cat.new
