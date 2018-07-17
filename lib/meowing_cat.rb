@@ -5,8 +5,9 @@ class Cat
   end
 end
 
-cat1 = Cat.new
-cat1.meow
+maru = Cat.new
+maru.name = "Maru"
+maru.meow
 
 cat2 = Cat.new
 
