@@ -1,5 +1,5 @@
-class Cat
-  attr_accessor :name
+class Human
+  attr_accessor :height, :name, :high_school, 
   
   def meow
     puts "meow!"
