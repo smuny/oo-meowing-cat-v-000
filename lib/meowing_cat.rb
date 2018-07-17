@@ -6,6 +6,7 @@ class Cat
 end
 
 cat1 = Cat.new
+cat1.sound
 
 cat2 = Cat.new
 
