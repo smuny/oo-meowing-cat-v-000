@@ -4,10 +4,10 @@ class Cat
     puts "meow!"
   end
   def name=(cats_name)
-    actual_cats_name = cats_name
+    @actual_cats_name = cats_name
   end
   def name
-    actual_cats_name
+    @actual_cats_name
   end
 end
 
