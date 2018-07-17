@@ -11,7 +11,3 @@ end
 maru = Cat.new
 maru.name
 maru.meow
-
-cat2 = Cat.new
-
-cat3 = Cat.new
