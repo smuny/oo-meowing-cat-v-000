@@ -2,4 +2,4 @@ class Cat
 
 end
 
-name = cat.new
+name = Cat.new
