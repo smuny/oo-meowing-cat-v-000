@@ -4,7 +4,7 @@ class Cat
     puts "meow!"
   end
   def name=(cats_name)
-    puts "Maru"
+    "Maru" = cats_name
   end
 end
 
