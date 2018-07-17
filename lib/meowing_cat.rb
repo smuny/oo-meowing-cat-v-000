@@ -1,12 +1,12 @@
 class Cat
 
-  def sound
+  def meow
     puts "meow!"
   end
 end
 
 cat1 = Cat.new
-cat1.sound
+cat1.meow
 
 cat2 = Cat.new
 
