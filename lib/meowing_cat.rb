@@ -1,7 +1,7 @@
 class Cat
 
   def sound
-    puts "meow"
+    puts "meow!"
   end
 end
 
