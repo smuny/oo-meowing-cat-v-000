@@ -3,7 +3,7 @@ class Cat
   def meow
     puts "meow!"
   end
-  def name
+  def name=(cats_name)
     puts "Maru"
   end
 end
