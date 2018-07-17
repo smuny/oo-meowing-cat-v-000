@@ -1,6 +1,5 @@
 class Cat
- def 
-   @cat = cat
- end
- 
+
 end
+
+name = cat.new
