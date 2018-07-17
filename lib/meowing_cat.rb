@@ -13,5 +13,5 @@ class Cat
 end
 
 maru = Cat.new
-maru.name = "Maru"
+maru.actual_cats_name = "Maru"
 maru.meow
