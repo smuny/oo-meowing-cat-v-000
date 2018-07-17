@@ -1,5 +1,6 @@
 class Cat
 
+  def sound
 end
 
 cat1 = Cat.new
